@@ -1,6 +1,7 @@
 const index = (req, res) => {
-    res.render('index', { title: 'TravelMate' });
+    res.render('index', { title: 'Loc8r' });
 };
 module.exports = {
     index
-    };
+};
+
